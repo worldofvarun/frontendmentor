@@ -86,11 +86,13 @@ main{
     color: hsl(228, 12%, 48%);
 }
 
-.product-details button{
+.product-details .button{
     background-color: hsl(158, 36%, 37%);
     color: white;
     width: 236px;
     height: 41.7px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -120,7 +122,7 @@ main{
         width: 100%;
     }
 
-    .product-details button{
+    .product-details .button{
         width: 100%;
     }
 
