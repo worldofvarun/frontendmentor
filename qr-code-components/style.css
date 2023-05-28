@@ -26,13 +26,14 @@ main{
     width: 320px;
     height: 480px;
     padding: 16px;
+    margin: 20px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 10px;
+    border-radius: 26px;
 }
 
 .qr-component img{
     width: 100%;
-    border-radius: 10px;
+    border-radius: 26px;
 }
 
 .qr-info {
